@@ -11,9 +11,14 @@ a {
   /* margin-left: 50px; */
   /* border-radius: 0px 0px 0px 200px; */
 }
-.slider-img{
-  height: 90vh;
+/* .slider-img {
+  padding: 0 20px;
+  height: 400px;
 }
+.slider-img img {
+  height: 100%;
+  width: 100%;
+} */
 .carousel-pointer {
   border-radius: 50%;
 }
