@@ -8,8 +8,11 @@ a {
 }
 .slider {
   background-color: #3b4a6b;
-  margin-left: 50px;
-  border-radius: 0px 0px 0px 200px;
+  /* margin-left: 50px; */
+  /* border-radius: 0px 0px 0px 200px; */
+}
+.slider-img{
+  height: 90vh;
 }
 .carousel-pointer {
   border-radius: 50%;
