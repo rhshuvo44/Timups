@@ -27,19 +27,20 @@ a {
   transform: translateY(-10px);
   color: #fff;
 }
+/* Latest watches  */
 .box {
   background-color: #faf9fa;
   border-radius: 20px;
   height: 300px;
 }
+/* about  */
 #about {
   background-color: #3b4a6b;
   overflow: hidden;
 }
-.card-img img {
-  transition: all 0.3s;
-  width: 75px;
-}
+
+/* featuers  */
+
 .card {
   box-shadow: 6px 6px 6px #898484f0;
   transition: all 0.3s;
@@ -48,6 +49,11 @@ a {
 .card:hover {
   background-color: #3b4a6b;
   color: #fff;
+}
+
+.card-img img {
+  transition: all 0.3s;
+  width: 75px;
 }
 .card a {
   color: black;
@@ -59,7 +65,3 @@ a {
 .card:hover img {
   filter: invert(1);
 }
-
-/* .send-btn{
-  padding: 10px 20px;
-} */
