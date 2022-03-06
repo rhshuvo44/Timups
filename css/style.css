@@ -8,24 +8,14 @@ a {
 }
 .slider {
   background-color: #3b4a6b;
-  /* margin-left: 50px; */
-  /* border-radius: 0px 0px 0px 200px; */
 }
-/* .slider-img {
-  padding: 0 20px;
-  height: 400px;
-}
-.slider-img img {
-  height: 100%;
-  width: 100%;
-} */
 .carousel-pointer {
   border-radius: 50%;
 }
 .common-btn {
   background-color: #e6c511;
   color: #fff;
-  padding: 10px 25px;
+  padding: 10px 50px;
   text-transform: uppercase;
   margin-top: 20px;
   text-decoration: none;
@@ -42,9 +32,6 @@ a {
   border-radius: 20px;
   height: 300px;
 }
-/* .watches{
-  width: ;
-} */
 #about {
   background-color: #3b4a6b;
   overflow: hidden;
@@ -72,3 +59,7 @@ a {
 .card:hover img {
   filter: invert(1);
 }
+
+/* .send-btn{
+  padding: 10px 20px;
+} */
