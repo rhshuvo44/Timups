@@ -22,6 +22,7 @@ a {
   display: inline-block;
   border-radius: 3px;
   transition: all 0.3s;
+  margin-bottom: 10px;
 }
 .common-btn:hover {
   transform: translateY(-10px);
@@ -31,7 +32,10 @@ a {
 .box {
   background-color: #faf9fa;
   border-radius: 20px;
-  height: 300px;
+  height: 350px;
+}
+.box .watch{
+height: 245px;
 }
 /* about  */
 #about {
