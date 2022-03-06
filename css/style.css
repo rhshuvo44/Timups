@@ -85,6 +85,15 @@ footer {
   border-radius: 50%;
   font-size: 16px;
 }
-.social a:hover{
+.social a:hover {
   color: #e6c511;
+}
+.reach {
+  display: flex;
+  flex-direction: column;
+}
+.subscribe-btn {
+  text-transform: capitalize;
+  padding: 10px 88px;
+  font-size: 20px;
 }
