@@ -74,6 +74,17 @@ a {
   width: 150px;
   border-radius: 50%;
   padding: 5px;
-  border: 5px dotted orange;
-  
+  border: 5px dotted #e6c511;
+}
+footer {
+  background-color: #3b4a6b;
+}
+.social a {
+  background-color: #fff;
+  padding: 5px 10px;
+  border-radius: 50%;
+  font-size: 16px;
+}
+.social a:hover{
+  color: #e6c511;
 }
