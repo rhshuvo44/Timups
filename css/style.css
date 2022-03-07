@@ -100,6 +100,6 @@ footer {
 }
 .subscribe-btn {
   text-transform: capitalize;
-  padding: 10px 88px;
-  font-size: 20px;
+  margin-top: 20px;
+  text-align: center;
 }
